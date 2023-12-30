@@ -7,7 +7,7 @@ By Brian Riordan
 [brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)  
 [https://www.brianriordanmusic.com/](https://www.brianriordanmusic.com/) 
   
-Repository for br.munge.1.0, with all related files, can be found here: [https://github.com/guaguanco127/br.stutter.c.1.0](https://github.com/guaguanco127/br.munge.1.0)  
+Repository for br.stutter.c.1.0, with all related files, can be found here: [https://github.com/guaguanco127/br.stutter.c.1.0](https://github.com/guaguanco127/br.stutter.b.1.0)  
 Additional programs can be found here: [https://github.com/guaguanco127/plugins](https://github.com/guaguanco127/plugins)
 
 These files were created with Max/MSP version 8.5.6. 
