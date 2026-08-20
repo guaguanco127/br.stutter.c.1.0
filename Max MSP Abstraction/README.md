@@ -87,7 +87,7 @@ For simpler version of this effect, try [br.stutter.a.1.0](https://github.com/gu
 
 3. In the Max patch you are using, create an object called br.stutter.c.abs.1.0 
 
-4. Alternatively, you could also create this inside of a bpatcher object and use all of the preset UI objects featured inside the abstraction. To do this, create a bpatcher object. Then, go inside of its inspector, select "choose" next to "Patcher File" and select the br.munge.abs.1.0.maxpat located within the same folder as your project. 
+4. Alternatively, you could also create this inside of a bpatcher object and use all of the preset UI objects featured inside the abstraction. To do this, create a bpatcher object. Then, go inside of its inspector, select "choose" next to "Patcher File" and select the br.stutter.c.abs.1.0.maxpat located within the same folder as your project. 
 
 ## <a name="Use"></a>How To Use
 
